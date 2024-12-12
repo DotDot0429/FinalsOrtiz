@@ -1,0 +1,109 @@
+/* General page background */
+body {
+    background-color: #2c3e50; /* Dark greenish blue */
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container styling */
+.container {
+    background-color: #1e2b32; /* Darker background to match forest theme */
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+    color: #d4e157; /* Light lime green */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Job post items */
+.list-group-item {
+    background-color: #388e3c; /* Forest green */
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Button styling */
+.btn {
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* Apply button */
+.btn-light {
+    background-color: #c8e6c9; /* Light green */
+    color: #388e3c;
+}
+
+/* Message HR button */
+.btn-warning {
+    background-color: #f57c00; /* Orange color for a contrast */
+    color: #fff;
+}
+
+/* Adjust hover effects */
+.btn-light:hover {
+    background-color: #a5d6a7;
+}
+
+.btn-warning:hover {
+    background-color: #e65100;
+}
+
+/* Text */
+.font-italic {
+    font-style: italic;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.text-muted {
+    color: #b0bec5;
+}
+
+/* Small text */
+small {
+    font-size: 0.9rem;
+    color: #b0bec5;
+    
+}
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.navbar {
+    background-color: #2e8b57; /* Forest Green */
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important; /* White text for links */
+}
+
+.navbar-toggler-icon {
+    background-color: #fff; /* White toggler icon */
+}
+
+footer {
+    background-color: #2e8b57; /* Forest Green Footer */
+    color: #fff;
+}
+
+footer p {
+    margin: 0;
+    padding: 10px 0;
+}
+
+.alert {
+    border-radius: 5px;
+}
+
